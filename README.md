@@ -1,1 +1,1 @@
-Production: https://tasinmir.herokuapp.com/
+Production: https://tasin.dev
